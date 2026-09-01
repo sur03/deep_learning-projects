@@ -1,36 +1,37 @@
 # Deep Learning Projects Repository
 
-This repository contains deep learning assignments and projects organized by type.
+This repository contains deep learning assignments and projects organized by assignment number.
 
 ## Directory Structure
 
 ```
 deep_learning-projects/
-├── notebooks/           # Jupyter notebooks with implementations
+├── Assignment-1/        # Assignment 1 - Data Classification
 │   ├── Assign1_DL.ipynb
+│   └── Assignment_1_Roll_67.pdf
+├── Assignment-2/        # Assignment 2 - Iris & Wine Dataset
 │   ├── Ass2_iris_wine.ipynb
-│   ├── Ass_5_DL.ipynb
-│   └── CNN_Assign_6.ipynb
-├── pdfs/                # Assignment PDFs and problem statements
-│   ├── Assignment_1_Roll_67.pdf
-│   ├── Assignment_2_Roll_67.pdf
-│   ├── Assignment_3_Roll_67.pdf
+│   └── Assignment_2_Roll_67.pdf
+├── Assignment-3/        # Assignment 3
+│   └── Assignment_3_Roll_67.pdf
+├── Assignment-5/        # Assignment 5 - Deep Learning
+│   └── Ass_5_DL.ipynb
+├── Assignment-6/        # Assignment 6 - CNN Implementation
+│   ├── CNN_Assign_6.ipynb
 │   └── Assignment_6_Roll_67.pdf
-├── assignments/         # Assignment documentation and formats
+├── Assignment-7/        # Assignment 7
+├── format/              # Assignment documentation and submission format
 │   └── DL_Assignment Submission Format.docx
 └── README.md           # Repository overview
 ```
 
 ## Contents
 
-- **notebooks/**: Jupyter notebooks containing deep learning model implementations, including:
-  - Iris and Wine dataset classification
-  - CNN (Convolutional Neural Networks) implementations
-  - Various deep learning assignments
+- **Assignment-1 to Assignment-7/**: Each assignment folder contains:
+  - Jupyter notebook with implementation (when available)
+  - PDF with problem statement and assignment details
 
-- **pdfs/**: Assignment specifications and problem statements in PDF format
-
-- **assignments/**: Submission format documentation and assignment guidelines
+- **format/**: Submission format documentation and assignment guidelines
 
 ## Getting Started
 
