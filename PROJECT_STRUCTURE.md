@@ -7,19 +7,18 @@ This repository contains deep learning assignments and projects organized by ass
 ```
 deep_learning-projects/
 ├── Assignment-1/        # Assignment 1 - Data Classification
-│   ├── Assign1_DL.ipynb
+│   ├── Assign1_DL (1).ipynb
 │   └── Assignment_1_Roll_67.pdf
 ├── Assignment-2/        # Assignment 2 - Iris & Wine Dataset
-│   ├── Ass2_iris_wine.ipynb
+│   ├── Ass2_iris_wine (1).ipynb
 │   └── Assignment_2_Roll_67.pdf
-├── Assignment-3/        # Assignment 3
+├── Assignment-3/        # Assignment 3 - Deep Learning
+│   ├── Ass_3_DL.ipynb
 │   └── Assignment_3_Roll_67.pdf
-├── Assignment-5/        # Assignment 5 - Deep Learning
-│   └── Ass_5_DL.ipynb
 ├── Assignment-6/        # Assignment 6 - CNN Implementation
 │   ├── CNN_Assign_6.ipynb
 │   └── Assignment_6_Roll_67.pdf
-├── Assignment-7/        # Assignment 7
+├── Assignment-7/        # Assignment 7 (placeholder)
 ├── format/              # Assignment documentation and submission format
 │   └── DL_Assignment Submission Format.docx
 └── README.md           # Repository overview
@@ -27,7 +26,7 @@ deep_learning-projects/
 
 ## Contents
 
-- **Assignment-1 to Assignment-7/**: Each assignment folder contains:
+- **Assignment-1, Assignment-2, Assignment-3, Assignment-6, Assignment-7**: Each assignment folder contains:
   - Jupyter notebook with implementation (when available)
   - PDF with problem statement and assignment details
 
